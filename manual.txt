@@ -3,3 +3,18 @@ git vscode install
 commit(checkbox), push(... button)
 git config --global user.email "seojaeohcode@gmail.com"
 git config --global user.name "seojaeoh"
+
+주 사용 탭
+>Code,Setting
+>general,collaborators, Pages
+
+퍼블리싱
+
+! 자동완성
+
+효율성 : https://curryyou.tistory.com/262
+
+블록태그 라인처음~끝까지 이어지는 태그
+인라인태그
+
+주석 ctrl+/
