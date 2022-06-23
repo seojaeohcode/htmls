@@ -1,0 +1,5 @@
+git, vscode download
+git vscode install
+commit(checkbox), push(... button)
+git config --global user.email "seojaeohcode@gmail.com"
+git config --global user.name "seojaeoh"
