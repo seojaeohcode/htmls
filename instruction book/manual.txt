@@ -23,6 +23,8 @@ git config --global user.name "seojaeoh"
 ../상위주소
 전부 다 적으면 절대주소
 
+url-uri : https://velog.io/@jch9537/URI-URL
+
 검사
 >html편집, 시작 옆 버튼2개(영역보기, 화면크기보기)
 
