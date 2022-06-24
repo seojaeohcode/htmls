@@ -35,3 +35,5 @@ url-uri : https://velog.io/@jch9537/URI-URL
 이미지를 강제로 가로 세로 길이를 바꾸면 네트워크비용증가
 >서버에서 오기전에 미리 준비를 해야함.(img > width / height)
 >급격하게 커지면 깨지는 문제도 있다.(적당한 사이즈를 백엔드에서 유지할 필요가 있다.)
+
+ table div img 안되면 br
