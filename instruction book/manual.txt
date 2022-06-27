@@ -29,6 +29,8 @@ url-uri : https://velog.io/@jch9537/URI-URL
 
 콘솔창 : https://allblack0811.tistory.com/14
 
+Ctrl+P => >git Clone => Code에서 복제한 링크
+
 질문은 많이
 
 검사
